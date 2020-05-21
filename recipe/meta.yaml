@@ -2,7 +2,7 @@
 
 package:
   name: uhd
-  version: {{ version }}
+  version: {{ version }}+boost170
 
 source:
   url: https://github.com/EttusResearch/uhd/archive/v{{ version }}.tar.gz
